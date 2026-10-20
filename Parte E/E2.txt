@@ -1,0 +1,20 @@
+Implementaria validaciones automaticas para comparar los registros y que coincidan 
+con la base de datos originales.
+
+PROBARIA ANTES:
+- Compras nuevas, modificadas y anuladas
+- Ejecutar varias veces y verificar que no hayan duplicados
+- Lanzar dos procesos al mismo tiempo y verificar que el bloqueo funciona
+
+
+REVISARIA CADA DIA:
+-
+
+
+ALERTAS:
+- Fallo del proceso o tiempos de espera demasiado largos
+- Errores de conexion
+- Registros anulados todavia activos 
+
+
+

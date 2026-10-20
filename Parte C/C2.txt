@@ -1,0 +1,19 @@
+
+fecha     |descripcion                 |debito         |clasificacion
+2026-10-01|	PAGO PROV 900111222 EG5001 |300.000,00	   |Emparejado fuerte con 5001
+2026-10-06|	TRANSF 800333444 EG-5002   |1.250.000,00   |Emparejado fuerte con 5002
+2026-10-06|	TRANSF 800333444	       |1.250.000,00   |Emparejado débil con 5003
+2026-10-09|	PAGO 900555666 eg 5004     |89.990,50	   |Emparejado fuerte con 5004
+2026-10-08|	PAGO 900111222             |3.999.000,00   |Solo en banco
+2026-10-12|	GMF 4X1000		           |16.000,00      |Solo en banco
+2026-10-12|	PAGO 830777888 EG5006	   |15.000,00	   |Emparejado fuerte con 5006
+
+
+
+Consecutivo	   | Valor	       | Clasificación
+5001	       | 300.000,00	   |Emparejado fuerte
+5002	       | 1.250.000,00  |Emparejado fuerte
+5003	       | 1.250.000,00  |Emparejado débil
+5004	       | 89.990,50	   |Emparejado fuerte
+5005	       | 4.000.000,00  |Solo en ERP
+5006	       | 15.000,00	   |Emparejado fuerte

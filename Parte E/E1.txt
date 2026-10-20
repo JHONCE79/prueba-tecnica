@@ -1,0 +1,13 @@
+1. La haria en SQL, debido a que se puede usar un GROUP BY y SUM son
+operaciones por defecto de la BD.
+
+2. Lo haria en ambos, SQL extrae los extractos y python se encarga de normalizar 
+las descripciones hechas a mano.
+
+3. Lo realizaria en SQL, usando un having para encontrar duplicados.
+
+4. Lo realizaria en python, me conecto a la base de datos, extraigo los datos y genero
+el estado de cuenta en pdf, adicionalmente con python envio los correos a los proveedores.
+
+5. Lo haria en SQL , recalcularía mediante consultas con UPDATE, JOIN
+ y agregaciones, calculando los saldos directamente en la base de datos.

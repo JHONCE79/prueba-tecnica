@@ -1,0 +1,5 @@
+El resultado puede cambiar si el algoritmo depende del orden de los movimientos. 
+Para evitarlo, realizaría primero todos los emparejamientos fuertes y después los débiles,
+garantizando que cada registro se utilice una sola vez. 
+El movimiento de $3.999.000,00 no se empareja con el egreso de $4.000.000,00 porque los montos deben coincidir exactamente. 
+Ambos quedan sin pareja y la diferencia de $1.000 debe investigarse.
